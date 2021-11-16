@@ -1,0 +1,23 @@
+{
+  "name": "functional-iterables",
+  "version": "1.0.0",
+  "description": "Functional primitives for ES6 iterables",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-typescript": "^7.16.0",
+    "@types/jest": "^27.0.2",
+    "@types/lodash": "^4.14.176",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1",
+    "jest-extended": "^1.1.0",
+    "lodash": "^4.17.21",
+    "typescript": "^4.4.4"
+  }
+}
